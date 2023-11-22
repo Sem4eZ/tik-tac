@@ -4,4 +4,4 @@ _________________________
 Учебный проект | Крестики-нолики на Reactjs
 
 
-https://sem4ez.github.io/tik-tac/
+https://sem4ez.github.io/tik-tac-toe/
